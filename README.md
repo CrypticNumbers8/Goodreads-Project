@@ -45,6 +45,6 @@ Using elbow curve method to calculate number of clusters for data:
 The recommendation engine suggests 5 similar books to read based on the input given by the user:
 
 
-<img src="https://github.com/CrypticNumbers8/Goodreads-Project/blob/master/6.PNG" width="500" height="300">
+<img src="https://github.com/CrypticNumbers8/Goodreads-Project/blob/master/6.PNG" width="700" height="400">
 
 
